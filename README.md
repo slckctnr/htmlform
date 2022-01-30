@@ -1,2 +1,2 @@
 # htmlform
-Merhaba arkadaşlar programlamaya html ile başladım ben ve ilk yaptığım form örnekleri, teşekkür ederim :)
+Merhaba arkadaşlar programlamaya html ile başladım ve ilk yaptığım form örnekleri, teşekkür ederim :)
